@@ -113,7 +113,7 @@ x.tolist()
 
 # using loadtxt to import from CSVs
 '''
-c,v = loadtxt('/home/nisarg/tech/pythonProgramming/images/data.csv',delimiter=',',unpack=True)
+c,v = loadtxt('data.csv',delimiter=',',unpack=True)
 '''
 # Some statistical functions
 '''
